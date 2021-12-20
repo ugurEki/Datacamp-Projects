@@ -1,2 +1,15 @@
-# Datacamp-Analyzing-TV-Data
-In this project's guided variant, we will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows. In the unguided variant of this project, we'll develop an informative plot that helps to visualize the viewership and quality of The Office throughout its nine seasons.
+# Datacamp Projects
+
+My Notebooks to DataCamp Projects
+
+
+
+
+
+| Project | Description | 
+| :---         |     :---:      | 
+| Analyzing TV Data   | Import, clean, and explore Super Bowl data and develop informative plot.      |
+| The Android App Market on Google Play     | Perform data wrangling, create visualizations, and carry out descriptive and inferential analysis      | 
+
+
+
